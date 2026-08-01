@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Environment
+config.env
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.tar
+
+# Coverage
+coverage/
+
+# Temporary
+tmp/
+temp/
