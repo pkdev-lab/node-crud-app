@@ -13,3 +13,23 @@ npm start
 ```
 
 Enjoy...!
+
+====================================
+
+# CRUD Application (Node.js)
+
+## Tech Stack
+
+- Node.js
+- Express
+- MongoDB
+- Docker
+- Docker Compose
+
+## Run
+
+docker compose up --build
+
+Application:
+
+http://localhost:8080
